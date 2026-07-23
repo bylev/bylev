@@ -129,6 +129,7 @@
 <li> Connect 4 MinMax and Alpha-Beta - Python </li>
 <li> Market Backend - Applied Programming - Spring Boot </li>
 <li> API Playlist - Appplied Programming - Python / FastAPI / uvicorn </li>
+<li> Gestor Veterinaria - Applied Programming - Java / Spring Boot / Gradle </li>
 </ul>
 
 
