@@ -124,7 +124,7 @@
 <h2> 𖥔. Projects </h2>
 <ul>
 <li> Refrigeration Monitoring System - UNAM </li>
-<li> Web Application for service management with .NET Core 10 / SQL / AWS EC2 - Transportes GGP </li>
+<li> Web Application for service management with .NET Core 10 / SQL / AWS Beanstalk / AWS RDS — Transportes GGP </li>
 <li> Facemask Detection - Python / OpenCV </li>
 <li> Connect 4 MinMax and Alpha-Beta - Python </li>
 <li> Market Backend - Applied Programming - Spring Boot </li>
