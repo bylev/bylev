@@ -117,6 +117,7 @@
 
 <h2>✿. Professional Experience </h2>
 <ul>
+<li> Talento Joven Desarrollo - <i> Cimatic de México</i> (2026 - Present) </li>
 <li> Data Services Associate - <i> Boldr Impact</i> (2024 - Present) </li>
 <li> Quality Assurance - <i> Scale AI </i> (2022-2024) </li>
 </ul>
